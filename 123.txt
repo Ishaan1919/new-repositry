@@ -1,0 +1,2 @@
+hello this is the practice of scm commands. 
+I play football.
